@@ -1,0 +1,3 @@
+[submodule "covid19"]
+	path = covid19
+	url = https://github.com/genova/covid19.git
